@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+}
+.btn{
+    padding: 15px;
+    background-color: black;
+    color: white;
+    border-radius: 3px;
+    display: inline-block;
+    border: 1px solid transparent;
+    margin: 10px;
+}
